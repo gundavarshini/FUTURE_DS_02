@@ -8,30 +8,46 @@ The dashboard allows users to explore metrics such as:
 
 
 ->Total No.of Products sold
+
 ->Regional Sales Distribution
+
 ->Monthly/Yearly Performance Trends
+
 ->Customer Segment Analysis
+
 ->KPIs and Performance Indicators
 
 
 🎯 Objectives
+
 ->Which social media platforms have the highest ad engagement
+
 ->Audience preferences and ad recall rates
+
 ->Effectiveness of social media ads based on demographics (age, gender, etc.)
+
 ->Insights to help marketers improve ad targeting and design
 
 
 🧰 Tools & Technologies
+
 ->Power BI Desktop for dashboard creation and visualization
+
 ->Data Cleaning & Transformation: Power Query Editor
+
 ->Visualizations: Line Charts, Bar Charts, Maps, Cards, and Pie Charts
+
 ->Excel/CSV DatasetFor raw data input
 
 
 🚀 How to Open the File
+
 1.Download and install Power BI Desktop
+
 2.Clone this repository or download the .pbix file
+
 3.Open the file in Power BI Desktop
+
 4.Explore and interact with the visuals!
 
 
